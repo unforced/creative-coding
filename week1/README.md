@@ -7,3 +7,4 @@ Most of the code written here is written by claude-3.5-sonnet using cursor, with
 When viewed in a browser, you should see a colorful animation moving between two atlas "A"s.
 
 To run, download the code and open `index.html` in your browser.
+Or view at https://html-preview.github.io/?url=https://github.com/unforced/creative-coding/blob/main/week1/index.html
