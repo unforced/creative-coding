@@ -8,3 +8,6 @@ When viewed in a browser, you should see a colorful animation moving between two
 
 To run, download the code and open `index.html` in your browser.
 Or view at https://html-preview.github.io/?url=https://github.com/unforced/creative-coding/blob/main/week1/index.html
+
+For reference, here is my original work done in the p5js editor without the help of AI:
+https://editor.p5js.org/unforced/full/Iw8j3D-WD
