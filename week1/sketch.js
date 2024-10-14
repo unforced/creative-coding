@@ -11,8 +11,8 @@ let startColor, endColor;
 function setup() {
   createCanvas(400, 400); // Create a 400x400 pixel canvas
   frameRate(60); // Set the frame rate to 60 FPS
-  startColor = color(0, 0, 255);  // Blue
-  endColor = color(255, 0, 0);    // Red
+  startColor = color(0, 255, 255);  // Cyan
+  endColor = color(255, 0, 255);    // Magenta
 }
 
 // p5.js draw function, runs continuously
@@ -52,6 +52,7 @@ function draw() {
     }
   }
 }
+
 
 // Function to create a gradient background
 function setGradient(x, y, w, h, c1, c2, axis) {
